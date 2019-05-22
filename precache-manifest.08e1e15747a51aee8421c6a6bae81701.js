@@ -128,8 +128,12 @@ self.__precacheManifest = [
     "url": "/smc/assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "abdd36093353d142fdaf3a11db5b6d40",
+    "revision": "da7e03cf4a3b62d29103b9181a73d34b",
     "url": "/smc/index.html"
+  },
+  {
+    "revision": "e8b4a0d8363f63d3eb55f2e08d63253b",
+    "url": "/smc/404.html"
   },
   {
     "revision": "996d8248f580f8e26e6c45c67da9b5a6",
