@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/smc/assets/js/UserProfile-vue.ba2a7c53.js"
   },
   {
-    "revision": "234f84272b37e93c484f",
+    "revision": "7e96a3883b4254033371",
     "url": "/smc/assets/css/app.f26bc3bc.css"
   },
   {
-    "revision": "234f84272b37e93c484f",
-    "url": "/smc/assets/js/app.eb15779d.js"
+    "revision": "7e96a3883b4254033371",
+    "url": "/smc/assets/js/app.325c6481.js"
   },
   {
     "revision": "0641389fb66d5c040c8b",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/smc/assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "855bee7e0c194126f75f6ac9a4692199",
+    "revision": "abdd36093353d142fdaf3a11db5b6d40",
     "url": "/smc/index.html"
   },
   {
