@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/smc/index.html"
   },
   {
-    "revision": "887065f194b82d63ccf6fcb7ee1742e4",
+    "revision": "9da3f72e6478c32410e0398157994505",
     "url": "/smc/404.html"
   },
   {
