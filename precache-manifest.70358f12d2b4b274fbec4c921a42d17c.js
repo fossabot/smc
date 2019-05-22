@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/smc/assets/js/Icons-vue.845e2b5b.js"
   },
   {
-    "revision": "c272598886b1f76092ac",
+    "revision": "6b190b04bea7ef244380",
     "url": "/smc/assets/css/Login-vue.830e2f8f.css"
   },
   {
-    "revision": "c272598886b1f76092ac",
-    "url": "/smc/assets/js/Login-vue.0c084475.js"
+    "revision": "6b190b04bea7ef244380",
+    "url": "/smc/assets/js/Login-vue.e42f4241.js"
   },
   {
     "revision": "c8b431db5a86f05f647a",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/smc/assets/js/UserProfile-vue.ba2a7c53.js"
   },
   {
-    "revision": "94e4f0758acc4460401a",
+    "revision": "234f84272b37e93c484f",
     "url": "/smc/assets/css/app.f26bc3bc.css"
   },
   {
-    "revision": "94e4f0758acc4460401a",
-    "url": "/smc/assets/js/app.e0cc0c6a.js"
+    "revision": "234f84272b37e93c484f",
+    "url": "/smc/assets/js/app.eb15779d.js"
   },
   {
     "revision": "0641389fb66d5c040c8b",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/smc/assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "7b068450ccdbec3446894fc250e48be3",
+    "revision": "855bee7e0c194126f75f6ac9a4692199",
     "url": "/smc/index.html"
   },
   {
