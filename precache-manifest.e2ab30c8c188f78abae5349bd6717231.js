@@ -116,12 +116,12 @@ self.__precacheManifest = [
     "url": "/smc/assets/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "f82ec6ba2dc4181db2af35c499462840",
-    "url": "/smc/assets/fonts/nucleo-icons.f82ec6ba.ttf"
-  },
-  {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "/smc/assets/fonts/nucleo-icons.2569aaea.woff"
+  },
+  {
+    "revision": "f82ec6ba2dc4181db2af35c499462840",
+    "url": "/smc/assets/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
@@ -132,19 +132,19 @@ self.__precacheManifest = [
     "url": "/smc/index.html"
   },
   {
-    "revision": "996d8248f580f8e26e6c45c67da9b5a6",
-    "url": "/smc/favicon.png"
-  },
-  {
     "revision": "9da3f72e6478c32410e0398157994505",
     "url": "/smc/404.html"
   },
   {
-    "revision": "82b9c7a5a3f405032b1db71a25f67021",
-    "url": "/smc/img/logo.png"
+    "revision": "996d8248f580f8e26e6c45c67da9b5a6",
+    "url": "/smc/favicon.png"
   },
   {
     "revision": "dcdd294d2b5d17bca7e490675f0147c5",
     "url": "/smc/img/vuetifylogo.png"
+  },
+  {
+    "revision": "82b9c7a5a3f405032b1db71a25f67021",
+    "url": "/smc/img/logo.png"
   }
 ];
