@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6943fd56a1cda9e0fff3",
+    "revision": "f43a7913f870fa8b774f",
     "url": "/smc/assets/css/Dashboard-vue.6bd797a0.css"
   },
   {
-    "revision": "6943fd56a1cda9e0fff3",
-    "url": "/smc/assets/js/Dashboard-vue.4e75734f.js"
+    "revision": "f43a7913f870fa8b774f",
+    "url": "/smc/assets/js/Dashboard-vue.c292f3ed.js"
   },
   {
     "revision": "7222158d7b728a1a2bb9",
@@ -16,68 +16,68 @@ self.__precacheManifest = [
     "url": "/smc/assets/js/Dashboard-vue~TableList-vue.85d2d15d.js"
   },
   {
-    "revision": "db0823da78778b24c72e",
+    "revision": "75a91b7f0d0ce52994b4",
     "url": "/smc/assets/css/Icons-vue.a00e327e.css"
   },
   {
-    "revision": "db0823da78778b24c72e",
-    "url": "/smc/assets/js/Icons-vue.845e2b5b.js"
+    "revision": "75a91b7f0d0ce52994b4",
+    "url": "/smc/assets/js/Icons-vue.672d5d90.js"
   },
   {
-    "revision": "6b190b04bea7ef244380",
+    "revision": "f4bf55d81d42cad63be9",
     "url": "/smc/assets/css/Login-vue.830e2f8f.css"
   },
   {
-    "revision": "6b190b04bea7ef244380",
-    "url": "/smc/assets/js/Login-vue.e42f4241.js"
+    "revision": "f4bf55d81d42cad63be9",
+    "url": "/smc/assets/js/Login-vue.e82667f6.js"
   },
   {
-    "revision": "c8b431db5a86f05f647a",
+    "revision": "9d021dbaa9c9ebf0210f",
     "url": "/smc/assets/css/Maps-vue.5c5a738e.css"
   },
   {
-    "revision": "c8b431db5a86f05f647a",
-    "url": "/smc/assets/js/Maps-vue.ee44548c.js"
+    "revision": "9d021dbaa9c9ebf0210f",
+    "url": "/smc/assets/js/Maps-vue.15b186cb.js"
   },
   {
-    "revision": "1052a74fdcb3f6e8dbb1",
+    "revision": "448bd888328b88af9cff",
     "url": "/smc/assets/css/Notifications-vue.b30cc6de.css"
   },
   {
-    "revision": "1052a74fdcb3f6e8dbb1",
-    "url": "/smc/assets/js/Notifications-vue.53e8a158.js"
+    "revision": "448bd888328b88af9cff",
+    "url": "/smc/assets/js/Notifications-vue.77ea3089.js"
   },
   {
-    "revision": "8b113568acd537fabb89",
-    "url": "/smc/assets/js/TableList-vue.6f739414.js"
+    "revision": "7c7b30d7912b0f8591da",
+    "url": "/smc/assets/js/TableList-vue.3d526afa.js"
   },
   {
-    "revision": "7d174ab25df190501a0a",
+    "revision": "76effdd30e2f320a8564",
     "url": "/smc/assets/css/Typography-vue.41a4938a.css"
   },
   {
-    "revision": "7d174ab25df190501a0a",
-    "url": "/smc/assets/js/Typography-vue.dc53aa2c.js"
+    "revision": "76effdd30e2f320a8564",
+    "url": "/smc/assets/js/Typography-vue.53d8d63b.js"
   },
   {
-    "revision": "69aa8e398f67fb154166",
-    "url": "/smc/assets/js/Upgrade-vue.0c6a2460.js"
+    "revision": "c05e4228a386d40209ab",
+    "url": "/smc/assets/js/Upgrade-vue.d63aff4d.js"
   },
   {
-    "revision": "36fb5a06dfc8063688f2",
+    "revision": "3cad02455cd6e7950d73",
     "url": "/smc/assets/css/UserProfile-vue.477fdfbe.css"
   },
   {
-    "revision": "36fb5a06dfc8063688f2",
-    "url": "/smc/assets/js/UserProfile-vue.ba2a7c53.js"
+    "revision": "3cad02455cd6e7950d73",
+    "url": "/smc/assets/js/UserProfile-vue.7320df52.js"
   },
   {
-    "revision": "b8568770dca222569afe",
+    "revision": "969b0282e26c45b11e23",
     "url": "/smc/assets/css/app.f26bc3bc.css"
   },
   {
-    "revision": "b8568770dca222569afe",
-    "url": "/smc/assets/js/app.5b417c7c.js"
+    "revision": "969b0282e26c45b11e23",
+    "url": "/smc/assets/js/app.8bbfd319.js"
   },
   {
     "revision": "0641389fb66d5c040c8b",
@@ -92,16 +92,16 @@ self.__precacheManifest = [
     "url": "/smc/assets/fonts/materialdesignicons-webfont.84c6fe1e.woff2"
   },
   {
-    "revision": "1a95531b09ffc9b76104e0003b456a0e",
-    "url": "/smc/assets/fonts/materialdesignicons-webfont.1a95531b.woff"
-  },
-  {
     "revision": "be7691c114e7c9d0543b89e824c4003d",
     "url": "/smc/assets/fonts/materialdesignicons-webfont.be7691c1.eot"
   },
   {
     "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
     "url": "/smc/assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
+  },
+  {
+    "revision": "1a95531b09ffc9b76104e0003b456a0e",
+    "url": "/smc/assets/fonts/materialdesignicons-webfont.1a95531b.woff"
   },
   {
     "revision": "c68a0a65b3a0be718f4c81c02c5f69ca",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/smc/assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "ad74e04947507b1eef880dbe6b7b52f9",
+    "revision": "8ba66df7ede105193e0572f23c185deb",
     "url": "/smc/index.html"
   },
   {
