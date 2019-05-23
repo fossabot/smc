@@ -108,10 +108,6 @@ self.__precacheManifest = [
     "url": "/smc/assets/img/materialdesignicons-webfont.c68a0a65.svg"
   },
   {
-    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
-    "url": "/smc/assets/img/nucleo-icons.0b8a30b1.svg"
-  },
-  {
     "revision": "c1733565b32b585676302d4233c39da8",
     "url": "/smc/assets/fonts/nucleo-icons.c1733565.eot"
   },
@@ -126,6 +122,10 @@ self.__precacheManifest = [
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/smc/assets/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
+    "url": "/smc/assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
     "revision": "8ba66df7ede105193e0572f23c185deb",
