@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7320df52.js"
   },
   {
-    "revision": "ef0b29c5bc8e875a8ba5",
+    "revision": "46994f7eef3bc39e475a",
     "url": "assets/css/app.f26bc3bc.css"
   },
   {
-    "revision": "ef0b29c5bc8e875a8ba5",
-    "url": "assets/js/app.c8507e63.js"
+    "revision": "46994f7eef3bc39e475a",
+    "url": "assets/js/app.d7f3cf9b.js"
   },
   {
     "revision": "9862a3d0b8f1fa2b33e3",
@@ -96,12 +96,12 @@ self.__precacheManifest = [
     "url": "assets/fonts/materialdesignicons-webfont.1a95531b.woff"
   },
   {
-    "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
-    "url": "assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
-  },
-  {
     "revision": "be7691c114e7c9d0543b89e824c4003d",
     "url": "assets/fonts/materialdesignicons-webfont.be7691c1.eot"
+  },
+  {
+    "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
+    "url": "assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
   },
   {
     "revision": "c68a0a65b3a0be718f4c81c02c5f69ca",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "db0f79a39837568a565b0bd5375f1a41",
+    "revision": "13498bec5e78f5ef4f07e5cb1b39ce75",
     "url": "index.html"
   },
   {
