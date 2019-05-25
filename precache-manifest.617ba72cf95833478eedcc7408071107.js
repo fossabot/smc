@@ -96,20 +96,16 @@ self.__precacheManifest = [
     "url": "assets/fonts/materialdesignicons-webfont.1a95531b.woff"
   },
   {
-    "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
-    "url": "assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
-  },
-  {
     "revision": "be7691c114e7c9d0543b89e824c4003d",
     "url": "assets/fonts/materialdesignicons-webfont.be7691c1.eot"
   },
   {
-    "revision": "c68a0a65b3a0be718f4c81c02c5f69ca",
-    "url": "assets/img/materialdesignicons-webfont.c68a0a65.svg"
+    "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
+    "url": "assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
   },
   {
-    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
-    "url": "assets/img/nucleo-icons.0b8a30b1.svg"
+    "revision": "c68a0a65b3a0be718f4c81c02c5f69ca",
+    "url": "assets/img/materialdesignicons-webfont.c68a0a65.svg"
   },
   {
     "revision": "c1733565b32b585676302d4233c39da8",
@@ -126,6 +122,10 @@ self.__precacheManifest = [
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "assets/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
+    "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
     "revision": "aa1ad794bb42aa7f756a666d5d975e46",
