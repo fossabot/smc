@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9fffad5b66caa1a5e873",
+    "revision": "d84e498d8d53a424f916",
     "url": "assets/css/Dashboard-vue.6bd797a0.css"
   },
   {
-    "revision": "9fffad5b66caa1a5e873",
-    "url": "assets/js/Dashboard-vue.1cba9842.js"
+    "revision": "d84e498d8d53a424f916",
+    "url": "assets/js/Dashboard-vue.311be2e2.js"
   },
   {
     "revision": "7222158d7b728a1a2bb9",
@@ -16,68 +16,68 @@ self.__precacheManifest = [
     "url": "assets/js/Dashboard-vue~TableList-vue.85d2d15d.js"
   },
   {
-    "revision": "4a0829cea48b24ef81ab",
+    "revision": "11634ea0f542291e9b63",
     "url": "assets/css/Icons-vue.a00e327e.css"
   },
   {
-    "revision": "4a0829cea48b24ef81ab",
-    "url": "assets/js/Icons-vue.e2b34a76.js"
+    "revision": "11634ea0f542291e9b63",
+    "url": "assets/js/Icons-vue.94889e21.js"
   },
   {
-    "revision": "8d295f0f7c4ff4bf346d",
+    "revision": "861e0235f2c1b976f0f7",
     "url": "assets/css/Login-vue.830e2f8f.css"
   },
   {
-    "revision": "8d295f0f7c4ff4bf346d",
-    "url": "assets/js/Login-vue.74bde72b.js"
+    "revision": "861e0235f2c1b976f0f7",
+    "url": "assets/js/Login-vue.d7205c87.js"
   },
   {
-    "revision": "42328cd89b2ee93147e1",
+    "revision": "3e2f9a0deaebbb1320b7",
     "url": "assets/css/Maps-vue.5c5a738e.css"
   },
   {
-    "revision": "42328cd89b2ee93147e1",
-    "url": "assets/js/Maps-vue.ee41753d.js"
+    "revision": "3e2f9a0deaebbb1320b7",
+    "url": "assets/js/Maps-vue.bd2182be.js"
   },
   {
-    "revision": "bf2ed85b861eec2cc526",
+    "revision": "397eed01b7f1ffbb3f74",
     "url": "assets/css/Notifications-vue.b30cc6de.css"
   },
   {
-    "revision": "bf2ed85b861eec2cc526",
-    "url": "assets/js/Notifications-vue.2cf0f649.js"
+    "revision": "397eed01b7f1ffbb3f74",
+    "url": "assets/js/Notifications-vue.29438323.js"
   },
   {
-    "revision": "e42b50047688ce097075",
-    "url": "assets/js/TableList-vue.9a235179.js"
+    "revision": "e2655968017c97706608",
+    "url": "assets/js/TableList-vue.6ba8ae78.js"
   },
   {
-    "revision": "d8158e6df2fc11c26207",
+    "revision": "b421cdc49df2fbaecc4e",
     "url": "assets/css/Typography-vue.41a4938a.css"
   },
   {
-    "revision": "d8158e6df2fc11c26207",
-    "url": "assets/js/Typography-vue.a07b1e01.js"
+    "revision": "b421cdc49df2fbaecc4e",
+    "url": "assets/js/Typography-vue.b5da84a0.js"
   },
   {
-    "revision": "d71996bbbc58c5d97004",
-    "url": "assets/js/Upgrade-vue.4128c8e1.js"
+    "revision": "70a917c3ebde81c7d04f",
+    "url": "assets/js/Upgrade-vue.43920e66.js"
   },
   {
-    "revision": "c5af09e4e24e40d77628",
+    "revision": "854a8ca850e5a2aa5742",
     "url": "assets/css/UserProfile-vue.477fdfbe.css"
   },
   {
-    "revision": "c5af09e4e24e40d77628",
-    "url": "assets/js/UserProfile-vue.9ee62463.js"
+    "revision": "854a8ca850e5a2aa5742",
+    "url": "assets/js/UserProfile-vue.f69f6cd4.js"
   },
   {
-    "revision": "80daed7a2735b8b7af2d",
+    "revision": "b798f38464619f6c8ba3",
     "url": "assets/css/app.f26bc3bc.css"
   },
   {
-    "revision": "80daed7a2735b8b7af2d",
-    "url": "assets/js/app.29fd1d47.js"
+    "revision": "b798f38464619f6c8ba3",
+    "url": "assets/js/app.77bd6540.js"
   },
   {
     "revision": "9862a3d0b8f1fa2b33e3",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "631130c2fd1c227b876181a223334c99",
+    "revision": "50de2d4d79cb4dbd2630012f55a44953",
     "url": "index.html"
   },
   {
