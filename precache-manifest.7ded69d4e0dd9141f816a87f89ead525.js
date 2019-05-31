@@ -1,91 +1,91 @@
 self.__precacheManifest = [
   {
-    "revision": "d84e498d8d53a424f916",
+    "revision": "7c6a627b29b2f94d4e49",
     "url": "assets/css/Dashboard-vue.6bd797a0.css"
   },
   {
-    "revision": "d84e498d8d53a424f916",
-    "url": "assets/js/Dashboard-vue.311be2e2.js"
+    "revision": "7c6a627b29b2f94d4e49",
+    "url": "assets/js/Dashboard-vue.d36bbca3.js"
   },
   {
-    "revision": "7222158d7b728a1a2bb9",
+    "revision": "2f003a3f9533cc419396",
     "url": "assets/css/Dashboard-vue~TableList-vue.0b5fa6bd.css"
   },
   {
-    "revision": "7222158d7b728a1a2bb9",
-    "url": "assets/js/Dashboard-vue~TableList-vue.85d2d15d.js"
+    "revision": "2f003a3f9533cc419396",
+    "url": "assets/js/Dashboard-vue~TableList-vue.9913ae08.js"
   },
   {
-    "revision": "11634ea0f542291e9b63",
+    "revision": "89f3448af400f17b2f4a",
     "url": "assets/css/Icons-vue.a00e327e.css"
   },
   {
-    "revision": "11634ea0f542291e9b63",
-    "url": "assets/js/Icons-vue.94889e21.js"
+    "revision": "89f3448af400f17b2f4a",
+    "url": "assets/js/Icons-vue.78a7b65d.js"
   },
   {
-    "revision": "861e0235f2c1b976f0f7",
+    "revision": "6512de42ff74b3a10ba0",
     "url": "assets/css/Login-vue.830e2f8f.css"
   },
   {
-    "revision": "861e0235f2c1b976f0f7",
-    "url": "assets/js/Login-vue.d7205c87.js"
+    "revision": "6512de42ff74b3a10ba0",
+    "url": "assets/js/Login-vue.c0ad3495.js"
   },
   {
-    "revision": "3e2f9a0deaebbb1320b7",
+    "revision": "29be7b2fcf4265b2ed01",
     "url": "assets/css/Maps-vue.5c5a738e.css"
   },
   {
-    "revision": "3e2f9a0deaebbb1320b7",
-    "url": "assets/js/Maps-vue.bd2182be.js"
+    "revision": "29be7b2fcf4265b2ed01",
+    "url": "assets/js/Maps-vue.9ebab164.js"
   },
   {
-    "revision": "397eed01b7f1ffbb3f74",
+    "revision": "7a98e1ab3c3d23b973f3",
     "url": "assets/css/Notifications-vue.b30cc6de.css"
   },
   {
-    "revision": "397eed01b7f1ffbb3f74",
-    "url": "assets/js/Notifications-vue.29438323.js"
+    "revision": "7a98e1ab3c3d23b973f3",
+    "url": "assets/js/Notifications-vue.d541b0df.js"
   },
   {
-    "revision": "e2655968017c97706608",
-    "url": "assets/js/TableList-vue.6ba8ae78.js"
+    "revision": "0b19fd4fcb93a262d20f",
+    "url": "assets/js/TableList-vue.63fc0b14.js"
   },
   {
-    "revision": "b421cdc49df2fbaecc4e",
+    "revision": "adb0fad571a6929acf1f",
     "url": "assets/css/Typography-vue.41a4938a.css"
   },
   {
-    "revision": "b421cdc49df2fbaecc4e",
-    "url": "assets/js/Typography-vue.b5da84a0.js"
+    "revision": "adb0fad571a6929acf1f",
+    "url": "assets/js/Typography-vue.a250b4ac.js"
   },
   {
-    "revision": "70a917c3ebde81c7d04f",
-    "url": "assets/js/Upgrade-vue.43920e66.js"
+    "revision": "c693ae38a71925572527",
+    "url": "assets/js/Upgrade-vue.43c329f4.js"
   },
   {
-    "revision": "854a8ca850e5a2aa5742",
+    "revision": "11c5255677647548b8ef",
     "url": "assets/css/UserProfile-vue.477fdfbe.css"
   },
   {
-    "revision": "854a8ca850e5a2aa5742",
-    "url": "assets/js/UserProfile-vue.f69f6cd4.js"
+    "revision": "11c5255677647548b8ef",
+    "url": "assets/js/UserProfile-vue.05533f01.js"
   },
   {
-    "revision": "b798f38464619f6c8ba3",
+    "revision": "54577a8a65c3418f8c01",
     "url": "assets/css/app.f26bc3bc.css"
   },
   {
-    "revision": "b798f38464619f6c8ba3",
-    "url": "assets/js/app.77bd6540.js"
+    "revision": "54577a8a65c3418f8c01",
+    "url": "assets/js/app.de098706.js"
   },
   {
-    "revision": "9862a3d0b8f1fa2b33e3",
+    "revision": "55b6bab4eb0cdaed1863",
     "url": "assets/css/chunk-vendors.97c8c6c8.css"
   },
   {
-    "revision": "9862a3d0b8f1fa2b33e3",
-    "url": "assets/js/chunk-vendors.bed2b5c3.js"
+    "revision": "55b6bab4eb0cdaed1863",
+    "url": "assets/js/chunk-vendors.4a11f1bf.js"
   },
   {
     "revision": "84c6fe1e4353c916d8f1452e82bdef8d",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "50de2d4d79cb4dbd2630012f55a44953",
+    "revision": "88514f8c6309ddc4cbb2a48eb1edb464",
     "url": "index.html"
   },
   {
