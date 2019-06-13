@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "assets/js/Register-vue.5ad3b9de.js"
   },
   {
-    "revision": "d83b34eaa489ace62b4c",
-    "url": "assets/js/SearchResults-vue.13f3233f.js"
+    "revision": "86612be4502a3ee8cb8b",
+    "url": "assets/js/SearchResults-vue.f9841e31.js"
   },
   {
     "revision": "135d21452550d0da3344",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7a41ba82.js"
   },
   {
-    "revision": "a5e440e3fa031108b8a2",
-    "url": "assets/css/app.2302cb20.css"
+    "revision": "913a2f6d0ee95bfd712e",
+    "url": "assets/css/app.b0b1570b.css"
   },
   {
-    "revision": "a5e440e3fa031108b8a2",
-    "url": "assets/js/app.96348496.js"
+    "revision": "913a2f6d0ee95bfd712e",
+    "url": "assets/js/app.b556746b.js"
   },
   {
     "revision": "a763bafc92a3de2a864c",
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "assets/fonts/materialdesignicons-webfont.1a95531b.woff"
   },
   {
-    "revision": "be7691c114e7c9d0543b89e824c4003d",
-    "url": "assets/fonts/materialdesignicons-webfont.be7691c1.eot"
-  },
-  {
     "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
     "url": "assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
+  },
+  {
+    "revision": "be7691c114e7c9d0543b89e824c4003d",
+    "url": "assets/fonts/materialdesignicons-webfont.be7691c1.eot"
   },
   {
     "revision": "c68a0a65b3a0be718f4c81c02c5f69ca",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "5bab47a8856c32cc82700d078bb578c9",
+    "revision": "0d5c08b37d519a39fd4c6159abac6d6c",
     "url": "index.html"
   },
   {
