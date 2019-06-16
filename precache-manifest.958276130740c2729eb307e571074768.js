@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "assets/js/Register-vue.5ad3b9de.js"
   },
   {
-    "revision": "85818d74208e75e3d301",
-    "url": "assets/js/SearchResults-vue.f5a0ffc5.js"
+    "revision": "1b33439de4ce706fab7d",
+    "url": "assets/js/SearchResults-vue.cf284121.js"
   },
   {
     "revision": "135d21452550d0da3344",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7a41ba82.js"
   },
   {
-    "revision": "6a93f87c91a9c9a787dd",
-    "url": "assets/css/app.00149e49.css"
+    "revision": "2b7304cb299811392a35",
+    "url": "assets/css/app.638a9f79.css"
   },
   {
-    "revision": "6a93f87c91a9c9a787dd",
-    "url": "assets/js/app.f8b6b781.js"
+    "revision": "2b7304cb299811392a35",
+    "url": "assets/js/app.e6e88b2a.js"
   },
   {
     "revision": "a763bafc92a3de2a864c",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "4452abecd27e2f2dc0ad98b8be9496c6",
+    "revision": "26a94645151f5492ca5560a8611ae9ab",
     "url": "index.html"
   },
   {
