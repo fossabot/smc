@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.958276130740c2729eb307e571074768.js"
+  "precache-manifest.dbad0493f2a0618ce4704df998b44339.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "smc_vue"});
