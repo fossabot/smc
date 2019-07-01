@@ -80,20 +80,20 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7a41ba82.js"
   },
   {
-    "revision": "90641b026f67c38e0134",
+    "revision": "266354b7b4b3bf00f76a",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "90641b026f67c38e0134",
-    "url": "assets/js/app.678db3af.js"
+    "revision": "266354b7b4b3bf00f76a",
+    "url": "assets/js/app.6dc840e0.js"
   },
   {
-    "revision": "a763bafc92a3de2a864c",
+    "revision": "f774091b788645a5620e",
     "url": "assets/css/chunk-vendors.97c8c6c8.css"
   },
   {
-    "revision": "a763bafc92a3de2a864c",
-    "url": "assets/js/chunk-vendors.bab09df8.js"
+    "revision": "f774091b788645a5620e",
+    "url": "assets/js/chunk-vendors.f97c59a7.js"
   },
   {
     "revision": "84c6fe1e4353c916d8f1452e82bdef8d",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "f2285bb33ecc985b6ea9edfb5a67b476",
+    "revision": "bf4db0bfe7b21fffa5ed293001bec280",
     "url": "index.html"
   },
   {
