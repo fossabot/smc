@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "assets/fonts/materialdesignicons-webfont.1a95531b.woff"
   },
   {
-    "revision": "be7691c114e7c9d0543b89e824c4003d",
-    "url": "assets/fonts/materialdesignicons-webfont.be7691c1.eot"
-  },
-  {
     "revision": "6acc7d6cffa21f6eda4baaa90e835fd2",
     "url": "assets/fonts/materialdesignicons-webfont.6acc7d6c.ttf"
+  },
+  {
+    "revision": "be7691c114e7c9d0543b89e824c4003d",
+    "url": "assets/fonts/materialdesignicons-webfont.be7691c1.eot"
   },
   {
     "revision": "c68a0a65b3a0be718f4c81c02c5f69ca",
