@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "assets/js/Register-vue.5ad3b9de.js"
   },
   {
-    "revision": "e98975e8f3250b230a02",
-    "url": "assets/js/SearchResults-vue.adb05ffb.js"
+    "revision": "54dc1ca795f81e529a2e",
+    "url": "assets/js/SearchResults-vue.8908ccfb.js"
   },
   {
     "revision": "135d21452550d0da3344",
@@ -80,20 +80,20 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7a41ba82.js"
   },
   {
-    "revision": "5bf51495cdca2d93dd6f",
-    "url": "assets/css/app.3d60b2c7.css"
+    "revision": "d02b93f8a80c95e8a736",
+    "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "5bf51495cdca2d93dd6f",
-    "url": "assets/js/app.b18dd7ec.js"
+    "revision": "d02b93f8a80c95e8a736",
+    "url": "assets/js/app.097f3847.js"
   },
   {
-    "revision": "f7e9c3b3c6ae18c04559",
-    "url": "assets/css/chunk-vendors.9503057f.css"
+    "revision": "228b4f7993424071d97f",
+    "url": "assets/css/chunk-vendors.97c8c6c8.css"
   },
   {
-    "revision": "f7e9c3b3c6ae18c04559",
-    "url": "assets/js/chunk-vendors.46152d17.js"
+    "revision": "228b4f7993424071d97f",
+    "url": "assets/js/chunk-vendors.95609ce4.js"
   },
   {
     "revision": "84c6fe1e4353c916d8f1452e82bdef8d",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "21c7584ee4e9e82514cfb44ca2b99dea",
+    "revision": "1d8508b159407dc11de3b8a8c775256b",
     "url": "index.html"
   },
   {
