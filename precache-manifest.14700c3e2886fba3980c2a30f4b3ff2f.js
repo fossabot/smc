@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "3a714293953e4d6a23dc",
+    "revision": "68fe7b909a3cfcf103a1",
     "url": "assets/css/Dashboard-vue.6bd797a0.css"
   },
   {
-    "revision": "3a714293953e4d6a23dc",
-    "url": "assets/js/Dashboard-vue.4167f6f0.js"
+    "revision": "68fe7b909a3cfcf103a1",
+    "url": "assets/js/Dashboard-vue.76a48c41.js"
   },
   {
-    "revision": "2f003a3f9533cc419396",
-    "url": "assets/css/Dashboard-vue~TableList-vue.0b5fa6bd.css"
+    "revision": "8a2d1b7e8c29000bfe9b",
+    "url": "assets/css/Dashboard-vue~TableList-vue.b9de80fc.css"
   },
   {
-    "revision": "2f003a3f9533cc419396",
-    "url": "assets/js/Dashboard-vue~TableList-vue.9913ae08.js"
+    "revision": "8a2d1b7e8c29000bfe9b",
+    "url": "assets/js/Dashboard-vue~TableList-vue.f558fd05.js"
   },
   {
     "revision": "5c0d560e195076c645fa",
@@ -80,20 +80,20 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.1f934dbf.js"
   },
   {
-    "revision": "fefb47eaf859ca6df68b",
+    "revision": "ed0077a804e2a6bd4341",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "fefb47eaf859ca6df68b",
-    "url": "assets/js/app.07b57e07.js"
+    "revision": "ed0077a804e2a6bd4341",
+    "url": "assets/js/app.9c15170d.js"
   },
   {
-    "revision": "4aeb0a88d8c34e526319",
-    "url": "assets/css/chunk-vendors.f56d1d0b.css"
+    "revision": "c663966da44e37c075af",
+    "url": "assets/css/chunk-vendors.4deb1034.css"
   },
   {
-    "revision": "4aeb0a88d8c34e526319",
-    "url": "assets/js/chunk-vendors.04423252.js"
+    "revision": "c663966da44e37c075af",
+    "url": "assets/js/chunk-vendors.bba50d6c.js"
   },
   {
     "revision": "c774cc6f2499d2b0d15a75179268eeb3",
@@ -116,6 +116,10 @@ self.__precacheManifest = [
     "url": "assets/fonts/nucleo-icons.c1733565.eot"
   },
   {
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "assets/fonts/nucleo-icons.42643978.woff2"
+  },
+  {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "assets/fonts/nucleo-icons.2569aaea.woff"
   },
@@ -124,15 +128,11 @@ self.__precacheManifest = [
     "url": "assets/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "assets/fonts/nucleo-icons.42643978.woff2"
-  },
-  {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "3c755279b0da4a9167bb808d0a1de112",
+    "revision": "be553416d858f8685c6c26a5304062cd",
     "url": "index.html"
   },
   {
