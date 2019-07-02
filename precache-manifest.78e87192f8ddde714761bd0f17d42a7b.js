@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "68fe7b909a3cfcf103a1",
+    "revision": "3a714293953e4d6a23dc",
     "url": "assets/css/Dashboard-vue.6bd797a0.css"
   },
   {
-    "revision": "68fe7b909a3cfcf103a1",
-    "url": "assets/js/Dashboard-vue.76a48c41.js"
+    "revision": "3a714293953e4d6a23dc",
+    "url": "assets/js/Dashboard-vue.4167f6f0.js"
   },
   {
-    "revision": "8a2d1b7e8c29000bfe9b",
-    "url": "assets/css/Dashboard-vue~TableList-vue.b9de80fc.css"
+    "revision": "2f003a3f9533cc419396",
+    "url": "assets/css/Dashboard-vue~TableList-vue.0b5fa6bd.css"
   },
   {
-    "revision": "8a2d1b7e8c29000bfe9b",
-    "url": "assets/js/Dashboard-vue~TableList-vue.f558fd05.js"
+    "revision": "2f003a3f9533cc419396",
+    "url": "assets/js/Dashboard-vue~TableList-vue.9913ae08.js"
   },
   {
     "revision": "5c0d560e195076c645fa",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "assets/js/Register-vue.a19cb224.js"
   },
   {
-    "revision": "0397ceb248e0f947a7a4",
-    "url": "assets/js/SearchResults-vue.f47919db.js"
+    "revision": "0e86e6143546cb443491",
+    "url": "assets/js/SearchResults-vue.eb977e6f.js"
   },
   {
     "revision": "ba1a5ffd373a3e48259d",
@@ -80,20 +80,20 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.1f934dbf.js"
   },
   {
-    "revision": "610b9c8da801381c7c66",
+    "revision": "4a460c0d7745e92750f7",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "610b9c8da801381c7c66",
-    "url": "assets/js/app.212abd92.js"
+    "revision": "4a460c0d7745e92750f7",
+    "url": "assets/js/app.d13c8898.js"
   },
   {
-    "revision": "9367a01ef3daf81056ec",
-    "url": "assets/css/chunk-vendors.4deb1034.css"
+    "revision": "4aeb0a88d8c34e526319",
+    "url": "assets/css/chunk-vendors.f56d1d0b.css"
   },
   {
-    "revision": "9367a01ef3daf81056ec",
-    "url": "assets/js/chunk-vendors.d4e2aab8.js"
+    "revision": "4aeb0a88d8c34e526319",
+    "url": "assets/js/chunk-vendors.04423252.js"
   },
   {
     "revision": "c774cc6f2499d2b0d15a75179268eeb3",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "3df1467cdcf7477e0299c038b61f1f80",
+    "revision": "4cbc0406e9bd71bb198f4ac150595704",
     "url": "index.html"
   },
   {
