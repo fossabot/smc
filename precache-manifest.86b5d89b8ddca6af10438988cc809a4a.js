@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.1f934dbf.js"
   },
   {
-    "revision": "4a460c0d7745e92750f7",
+    "revision": "fefb47eaf859ca6df68b",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "4a460c0d7745e92750f7",
-    "url": "assets/js/app.d13c8898.js"
+    "revision": "fefb47eaf859ca6df68b",
+    "url": "assets/js/app.07b57e07.js"
   },
   {
     "revision": "4aeb0a88d8c34e526319",
@@ -116,10 +116,6 @@ self.__precacheManifest = [
     "url": "assets/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "assets/fonts/nucleo-icons.42643978.woff2"
-  },
-  {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "assets/fonts/nucleo-icons.2569aaea.woff"
   },
@@ -128,11 +124,15 @@ self.__precacheManifest = [
     "url": "assets/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "assets/fonts/nucleo-icons.42643978.woff2"
+  },
+  {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "assets/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "4cbc0406e9bd71bb198f4ac150595704",
+    "revision": "3c755279b0da4a9167bb808d0a1de112",
     "url": "index.html"
   },
   {
