@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "assets/js/Register-vue.fe18c3b4.js"
   },
   {
-    "revision": "83655c73806d24cbcbda",
-    "url": "assets/js/SearchResults-vue.651878c3.js"
+    "revision": "f9f3de39a31e6e6af39d",
+    "url": "assets/js/SearchResults-vue.0c0013e3.js"
   },
   {
     "revision": "fa0d576427309d6e0900",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7a826efb.js"
   },
   {
-    "revision": "9dc66d4b7ec68a18c8b8",
+    "revision": "a0fbc7cb30932cbe0696",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "9dc66d4b7ec68a18c8b8",
-    "url": "assets/js/app.f76a5abb.js"
+    "revision": "a0fbc7cb30932cbe0696",
+    "url": "assets/js/app.852363a7.js"
   },
   {
     "revision": "10b515cfb8fa857b53d7",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_music@2x.64525e79.png"
   },
   {
-    "revision": "bb16d38d5c504bdbaa9164663a7b621e",
+    "revision": "7eb6670e314f3da8927af2a41c1aa5eb",
     "url": "index.html"
   },
   {
