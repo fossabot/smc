@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.7a826efb.js"
   },
   {
-    "revision": "a361c00cb78ccef64ab5",
+    "revision": "d7530bd6af7897e35eda",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "a361c00cb78ccef64ab5",
-    "url": "assets/js/app.25c1cc59.js"
+    "revision": "d7530bd6af7897e35eda",
+    "url": "assets/js/app.b0f3f822.js"
   },
   {
     "revision": "10b515cfb8fa857b53d7",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_zip@2x.9b9d6379.png"
   },
   {
-    "revision": "c774cc6f2499d2b0d15a75179268eeb3",
-    "url": "assets/fonts/materialdesignicons-webfont.c774cc6f.woff2"
-  },
-  {
     "revision": "848935b04b3f6512d1f47de14de9ba33",
     "url": "assets/fonts/materialdesignicons-webfont.848935b0.woff"
+  },
+  {
+    "revision": "c774cc6f2499d2b0d15a75179268eeb3",
+    "url": "assets/fonts/materialdesignicons-webfont.c774cc6f.woff2"
   },
   {
     "revision": "84cd5ee65fd195790df16e5d0075e99f",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_music@2x.64525e79.png"
   },
   {
-    "revision": "96cc0a90e8e5ec38a2b4afafe6249dd2",
+    "revision": "2de8c9275345357f59b245e747008b54",
     "url": "index.html"
   },
   {
