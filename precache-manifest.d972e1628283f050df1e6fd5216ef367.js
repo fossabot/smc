@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "assets/js/Dashboard-vue.7183577b.js"
   },
   {
-    "revision": "8a2d1b7e8c29000bfe9b",
+    "revision": "bac21045245da61c535d",
     "url": "assets/css/Dashboard-vue~TableList-vue.b9de80fc.css"
   },
   {
-    "revision": "8a2d1b7e8c29000bfe9b",
-    "url": "assets/js/Dashboard-vue~TableList-vue.f558fd05.js"
+    "revision": "bac21045245da61c535d",
+    "url": "assets/js/Dashboard-vue~TableList-vue.544fbef3.js"
   },
   {
     "revision": "981a7adb5344d06fbd39",
@@ -72,28 +72,28 @@ self.__precacheManifest = [
     "url": "assets/js/Upgrade-vue.c92e61d2.js"
   },
   {
-    "revision": "ea01af0dbee56e34516f",
-    "url": "assets/css/UserProfile-vue.477fdfbe.css"
+    "revision": "0ebfa6cbba40e5ae6fc5",
+    "url": "assets/css/UserProfile-vue.658b5210.css"
   },
   {
-    "revision": "ea01af0dbee56e34516f",
-    "url": "assets/js/UserProfile-vue.0130f2e9.js"
+    "revision": "0ebfa6cbba40e5ae6fc5",
+    "url": "assets/js/UserProfile-vue.2b2c1f68.js"
   },
   {
-    "revision": "730fe06ee46338f086ac",
+    "revision": "ffece00ac76f811b3c03",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "730fe06ee46338f086ac",
-    "url": "assets/js/app.08ecd6e9.js"
+    "revision": "ffece00ac76f811b3c03",
+    "url": "assets/js/app.b0fd87c4.js"
   },
   {
-    "revision": "10b515cfb8fa857b53d7",
-    "url": "assets/css/chunk-vendors.4deb1034.css"
+    "revision": "d5047ac3b9eb01d55ce2",
+    "url": "assets/css/chunk-vendors.85273dd6.css"
   },
   {
-    "revision": "10b515cfb8fa857b53d7",
-    "url": "assets/js/chunk-vendors.4bb59e60.js"
+    "revision": "d5047ac3b9eb01d55ce2",
+    "url": "assets/js/chunk-vendors.fc43c8c8.js"
   },
   {
     "revision": "4cfc05a524cb8e091a47fbbb8430554f",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "856ef60952d01e28bb82f705963eba07",
+    "revision": "9b547ebd6a9711081ae4c36f1b712f93",
     "url": "index.html"
   },
   {
