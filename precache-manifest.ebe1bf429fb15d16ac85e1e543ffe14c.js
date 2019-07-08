@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/UserProfile-vue.0130f2e9.js"
   },
   {
-    "revision": "81044a65cf074409d43c",
+    "revision": "730fe06ee46338f086ac",
     "url": "assets/css/app.ec399f05.css"
   },
   {
-    "revision": "81044a65cf074409d43c",
-    "url": "assets/js/app.567a36b5.js"
+    "revision": "730fe06ee46338f086ac",
+    "url": "assets/js/app.08ecd6e9.js"
   },
   {
     "revision": "10b515cfb8fa857b53d7",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "d53f3e4ed9faf0e65b4e47750875d88d",
+    "revision": "856ef60952d01e28bb82f705963eba07",
     "url": "index.html"
   },
   {
