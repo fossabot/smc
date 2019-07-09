@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a1e465f14f64edb6d16e",
+    "revision": "ed8f7534464ce5f1ddcb",
     "url": "assets/css/app.4248f95a.css"
   },
   {
-    "revision": "a1e465f14f64edb6d16e",
-    "url": "assets/js/app.d3d1183d.js"
+    "revision": "ed8f7534464ce5f1ddcb",
+    "url": "assets/js/app.8f59f12a.js"
   },
   {
     "revision": "d3731af5babb79a87fb1",
@@ -34,6 +34,14 @@ self.__precacheManifest = [
   {
     "revision": "9902cbabf0947164cf62",
     "url": "assets/js/other-Eninge-vue.7c51c8e8.js"
+  },
+  {
+    "revision": "bf6679aea28c549b9c17",
+    "url": "assets/css/other-EningeLow-vue.e9d03345.css"
+  },
+  {
+    "revision": "bf6679aea28c549b9c17",
+    "url": "assets/js/other-EningeLow-vue.af0ff33d.js"
   },
   {
     "revision": "2669fce3b15d2a9f15cd",
@@ -248,7 +256,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "c23215f7fe6c6abd7b88abb7951e55a7",
+    "revision": "945e3755521b3c98e0f65d75cbefded8",
     "url": "index.html"
   },
   {
