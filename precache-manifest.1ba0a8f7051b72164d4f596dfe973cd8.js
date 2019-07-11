@@ -128,12 +128,12 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_zip@2x.9b9d6379.png"
   },
   {
-    "revision": "848935b04b3f6512d1f47de14de9ba33",
-    "url": "assets/fonts/materialdesignicons-webfont.848935b0.woff"
-  },
-  {
     "revision": "c774cc6f2499d2b0d15a75179268eeb3",
     "url": "assets/fonts/materialdesignicons-webfont.c774cc6f.woff2"
+  },
+  {
+    "revision": "848935b04b3f6512d1f47de14de9ba33",
+    "url": "assets/fonts/materialdesignicons-webfont.848935b0.woff"
   },
   {
     "revision": "84cd5ee65fd195790df16e5d0075e99f",
