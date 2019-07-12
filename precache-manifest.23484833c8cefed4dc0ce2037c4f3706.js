@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "13a2b66d11fcfe88c599",
+    "revision": "9655572b019668bf2302",
     "url": "assets/css/app.dd48469d.css"
   },
   {
-    "revision": "13a2b66d11fcfe88c599",
-    "url": "assets/js/app.8c39e746.js"
+    "revision": "9655572b019668bf2302",
+    "url": "assets/js/app.fe499c38.js"
   },
   {
     "revision": "28600111e3e443f1a0b0",
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "assets/js/root-Upgrade-vue.c524361b.js"
   },
   {
-    "revision": "5179a5e168ec2b28fdcb",
-    "url": "assets/css/root-UploadPage-vue.4287be58.css"
+    "revision": "f416d6a96f5272fc90c4",
+    "url": "assets/css/root-UploadPage-vue.0df50865.css"
   },
   {
-    "revision": "5179a5e168ec2b28fdcb",
-    "url": "assets/js/root-UploadPage-vue.da4079c7.js"
+    "revision": "f416d6a96f5272fc90c4",
+    "url": "assets/js/root-UploadPage-vue.6f1cae3a.js"
   },
   {
     "revision": "0ff603ab60c33fc6c115",
@@ -264,7 +264,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "6352ab90ba435cbe0ec0a7884f38eace",
+    "revision": "b57e9e030d705b6d0d85e0cf64376b55",
     "url": "index.html"
   },
   {
