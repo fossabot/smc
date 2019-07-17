@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "29a173570b1d0900e717",
+    "revision": "5d06679bfd7f32ad71e1",
     "url": "assets/css/app.a645e9e0.css"
   },
   {
-    "revision": "29a173570b1d0900e717",
-    "url": "assets/js/app.8be413ba.js"
+    "revision": "5d06679bfd7f32ad71e1",
+    "url": "assets/js/app.0722e559.js"
   },
   {
     "revision": "241f84cc7fa6c77c6eb5",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "assets/js/auth-Register-vue.6450caaa.js"
   },
   {
-    "revision": "a96671b5a6b55ee3c3d3",
+    "revision": "f7777896ffadbfde4868",
     "url": "assets/css/chunk-vendors.53a53a7a.css"
   },
   {
-    "revision": "a96671b5a6b55ee3c3d3",
-    "url": "assets/js/chunk-vendors.b50c4d7a.js"
+    "revision": "f7777896ffadbfde4868",
+    "url": "assets/js/chunk-vendors.1fc8977f.js"
   },
   {
     "revision": "a962ab39bb9ca8d1976e",
@@ -272,7 +272,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "c0db64c85bf303f9653f3894c81c8ca1",
+    "revision": "d99a625ac1f3f0bc6c1b8bb8c6026302",
     "url": "index.html"
   },
   {
