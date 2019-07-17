@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a8424bff968dd9a5efb4",
-    "url": "assets/css/app.cf301d40.css"
+    "revision": "32b9695af31a16eedab7",
+    "url": "assets/css/app.a645e9e0.css"
   },
   {
-    "revision": "a8424bff968dd9a5efb4",
-    "url": "assets/js/app.ba2b275a.js"
+    "revision": "32b9695af31a16eedab7",
+    "url": "assets/js/app.baf57a54.js"
   },
   {
     "revision": "241f84cc7fa6c77c6eb5",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "assets/js/auth-Register-vue.6450caaa.js"
   },
   {
-    "revision": "f33a7797142f25e68d61",
-    "url": "assets/css/chunk-vendors.389ff304.css"
+    "revision": "a96671b5a6b55ee3c3d3",
+    "url": "assets/css/chunk-vendors.53a53a7a.css"
   },
   {
-    "revision": "f33a7797142f25e68d61",
-    "url": "assets/js/chunk-vendors.6fc51da3.js"
+    "revision": "a96671b5a6b55ee3c3d3",
+    "url": "assets/js/chunk-vendors.b50c4d7a.js"
   },
   {
     "revision": "a962ab39bb9ca8d1976e",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "assets/js/root-Dashboard-vue~root-TableList-vue.97a8d1cd.js"
   },
   {
-    "revision": "52098598b1ec5bb3da5b",
-    "url": "assets/css/root-Home-vue.4d12946f.css"
+    "revision": "4e5cacd2d22855518c11",
+    "url": "assets/css/root-Home-vue.b30cc6de.css"
   },
   {
-    "revision": "52098598b1ec5bb3da5b",
-    "url": "assets/js/root-Home-vue.1944791f.js"
+    "revision": "4e5cacd2d22855518c11",
+    "url": "assets/js/root-Home-vue.e5639abc.js"
   },
   {
     "revision": "797185a803c1b59c0e5f",
@@ -84,12 +84,12 @@ self.__precacheManifest = [
     "url": "assets/js/root-Maps-vue.da655111.js"
   },
   {
-    "revision": "786dc180f0b601939489",
+    "revision": "410c630c801860d91f00",
     "url": "assets/css/root-Notifications-vue.b30cc6de.css"
   },
   {
-    "revision": "786dc180f0b601939489",
-    "url": "assets/js/root-Notifications-vue.67fbfa86.js"
+    "revision": "410c630c801860d91f00",
+    "url": "assets/js/root-Notifications-vue.e4be18cb.js"
   },
   {
     "revision": "a27036cdc5951de989ac",
@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "assets/fonts/materialdesignicons-webfont.848935b0.woff"
   },
   {
-    "revision": "f6e666527036392fb3d0030d50118269",
-    "url": "assets/fonts/materialdesignicons-webfont.f6e66652.ttf"
-  },
-  {
     "revision": "84cd5ee65fd195790df16e5d0075e99f",
     "url": "assets/fonts/materialdesignicons-webfont.84cd5ee6.eot"
+  },
+  {
+    "revision": "f6e666527036392fb3d0030d50118269",
+    "url": "assets/fonts/materialdesignicons-webfont.f6e66652.ttf"
   },
   {
     "revision": "f295f194c034339fdf35e8102062f6fa",
@@ -272,7 +272,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "58da7dc707b504f0ce12461593a49739",
+    "revision": "627bd7623859732127de50e67024c30a",
     "url": "index.html"
   },
   {
