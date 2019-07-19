@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "900f102a01c62a30431d",
+    "revision": "a14368d81c4369662e3c",
     "url": "assets/css/app.2878cbb8.css"
   },
   {
-    "revision": "900f102a01c62a30431d",
-    "url": "assets/js/app.944ba002.js"
+    "revision": "a14368d81c4369662e3c",
+    "url": "assets/js/app.27091c13.js"
   },
   {
     "revision": "909e5481f8a3b5b704a9",
@@ -272,7 +272,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "7fadce3226f7f93363b372ec925e178d",
+    "revision": "3ce2ed72cb4eeb330782b34659a8deb7",
     "url": "index.html"
   },
   {
@@ -280,8 +280,20 @@ self.__precacheManifest = [
     "url": "404.html"
   },
   {
+    "revision": "8c5be647a0a24439f9425d3e9f0bdfdb",
+    "url": "CloudUploadAlpha.ico"
+  },
+  {
     "revision": "996d8248f580f8e26e6c45c67da9b5a6",
     "url": "favicon.png"
+  },
+  {
+    "revision": "d0eb28c06368193b8736ed7148975051",
+    "url": "img/CloudUpload.png"
+  },
+  {
+    "revision": "0c6d2497dd861439deb8d54c06b1c4ca",
+    "url": "img/CloudUploadAlpha.png"
   },
   {
     "revision": "82b9c7a5a3f405032b1db71a25f67021",
