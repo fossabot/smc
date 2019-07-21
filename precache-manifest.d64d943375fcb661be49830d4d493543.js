@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bb4850983700ca7385d0",
+    "revision": "6c908aa3748562db33cd",
     "url": "assets/css/app.2878cbb8.css"
   },
   {
-    "revision": "bb4850983700ca7385d0",
-    "url": "assets/js/app.8c9654ae.js"
+    "revision": "6c908aa3748562db33cd",
+    "url": "assets/js/app.07ce545c.js"
   },
   {
     "revision": "011438f2f3181abae7d7",
@@ -20,12 +20,16 @@ self.__precacheManifest = [
     "url": "assets/js/auth-Register-vue.3fd3626d.js"
   },
   {
-    "revision": "e2de57a40ea860d890dc",
+    "revision": "b579c19e3bc7056e8c28",
+    "url": "assets/js/chunk-2d22d1f5.2ab53cbd.js"
+  },
+  {
+    "revision": "08ae3785c6bfd2bdb652",
     "url": "assets/css/chunk-vendors.e0d068f1.css"
   },
   {
-    "revision": "e2de57a40ea860d890dc",
-    "url": "assets/js/chunk-vendors.d0776649.js"
+    "revision": "08ae3785c6bfd2bdb652",
+    "url": "assets/js/chunk-vendors.b0a3706a.js"
   },
   {
     "revision": "c1b0d59d8de3803a6ad2",
@@ -92,8 +96,8 @@ self.__precacheManifest = [
     "url": "assets/js/root-Notifications-vue.6f0b4aa8.js"
   },
   {
-    "revision": "040064e8739e77b58026",
-    "url": "assets/js/root-SearchResults-vue.bb7166d1.js"
+    "revision": "340321efbe040cc33cdb",
+    "url": "assets/js/root-SearchResults-vue.188c7a07.js"
   },
   {
     "revision": "d8b0b47d1ffebc80e678",
@@ -272,7 +276,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "26d1b85c70a8d853626c1dddc9199c7c",
+    "revision": "5a15dfaac1da2424394e2c61e60e87bd",
     "url": "index.html"
   },
   {
