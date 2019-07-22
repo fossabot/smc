@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bb91779504bdec0f4c65",
+    "revision": "4484c8a72dafa7ccbb59",
     "url": "assets/css/app.2f574ade.css"
   },
   {
-    "revision": "bb91779504bdec0f4c65",
-    "url": "assets/js/app.4c43bcc8.js"
+    "revision": "4484c8a72dafa7ccbb59",
+    "url": "assets/js/app.24cac0ae.js"
   },
   {
     "revision": "f28a29fe7aa8704f7795",
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "5c8b3a0b8ae2c784b00aad2c2026fa85",
+    "revision": "4bb59cf2f8d24fbe8d8311b873eca27c",
     "url": "index.html"
   },
   {
