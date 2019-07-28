@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d22ec71d6fcac657b720",
+    "revision": "43c74b02e43d3662c67e",
     "url": "assets/css/app.26c4dfe0.css"
   },
   {
-    "revision": "d22ec71d6fcac657b720",
-    "url": "assets/js/app.6a630fca.js"
+    "revision": "43c74b02e43d3662c67e",
+    "url": "assets/js/app.5830d5b7.js"
   },
   {
     "revision": "3f22a348d5bc8b166ae6",
     "url": "assets/js/auth-Email_Check-vue.43640d4f.js"
   },
   {
-    "revision": "e1bfe3441274cdab93c5",
-    "url": "assets/js/auth-Login-vue.20f37d99.js"
+    "revision": "dba79248670688f762a4",
+    "url": "assets/js/auth-Login-vue.93873ceb.js"
   },
   {
     "revision": "4d206ea1fc537d86d6c8",
@@ -284,7 +284,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "40ce0f4345a3a0cbd1062114845aed98",
+    "revision": "88390873a85cfc726fb5516549708438",
     "url": "index.html"
   },
   {
