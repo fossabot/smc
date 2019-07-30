@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dc7c126e525d1b43314b",
+    "revision": "36746af946d689b0659b",
     "url": "assets/css/app.26c4dfe0.css"
   },
   {
-    "revision": "dc7c126e525d1b43314b",
-    "url": "assets/js/app.2a105daf.js"
+    "revision": "36746af946d689b0659b",
+    "url": "assets/js/app.d97e6938.js"
   },
   {
     "revision": "3a5104bd3fc12733b3c3",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "assets/js/auth-Login-vue.5165bfa2.js"
   },
   {
-    "revision": "d7a154498c5914bf0015",
-    "url": "assets/js/auth-Register-vue.f5704041.js"
+    "revision": "2605ad10f4ac060b23e1",
+    "url": "assets/js/auth-Register-vue.4f5fde64.js"
   },
   {
     "revision": "c06af923af17664781b5",
@@ -288,7 +288,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "74bef8f6fe60355bed56eae7c5311c25",
+    "revision": "436d16c4f76e68b65a6b53bbe7ab1f02",
     "url": "index.html"
   },
   {
