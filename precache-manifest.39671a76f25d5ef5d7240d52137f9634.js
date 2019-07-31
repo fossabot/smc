@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "11ca668adfd5acecd38c",
-    "url": "assets/css/app.7eb72792.css"
+    "revision": "565ab52109a704ae2efd",
+    "url": "assets/css/app.3aa88510.css"
   },
   {
-    "revision": "11ca668adfd5acecd38c",
-    "url": "assets/js/app.ac83e78d.js"
+    "revision": "565ab52109a704ae2efd",
+    "url": "assets/js/app.1018d872.js"
   },
   {
     "revision": "fe394e9830c4f932411c",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "assets/js/chunk-2d22d1f5.b2243ed9.js"
   },
   {
-    "revision": "6d66dd3943523a4141f9",
-    "url": "assets/css/chunk-vendors.ed2986bf.css"
+    "revision": "9882ed396312b4001976",
+    "url": "assets/css/chunk-vendors.cb585db8.css"
   },
   {
-    "revision": "6d66dd3943523a4141f9",
-    "url": "assets/js/chunk-vendors.96b048b9.js"
+    "revision": "9882ed396312b4001976",
+    "url": "assets/js/chunk-vendors.449cbfde.js"
   },
   {
     "revision": "9ac261a37f6533a71de1",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "assets/js/play-Video-vue.23c265a3.js"
   },
   {
-    "revision": "b32ede0da52bf4471c84",
-    "url": "assets/css/root-Dashboard-vue.2399d612.css"
+    "revision": "8f68330cb3d554408c09",
+    "url": "assets/css/root-Dashboard-vue.8b6a6e78.css"
   },
   {
-    "revision": "b32ede0da52bf4471c84",
-    "url": "assets/js/root-Dashboard-vue.4b572103.js"
+    "revision": "8f68330cb3d554408c09",
+    "url": "assets/js/root-Dashboard-vue.0d29f991.js"
   },
   {
     "revision": "f9f7ea7b2faa00138561",
@@ -88,12 +88,8 @@ self.__precacheManifest = [
     "url": "assets/js/root-Home-vue.d120df85.js"
   },
   {
-    "revision": "0c0364c3b6a757408792",
-    "url": "assets/css/root-Icons-vue.75a58ff6.css"
-  },
-  {
-    "revision": "0c0364c3b6a757408792",
-    "url": "assets/js/root-Icons-vue.83284b64.js"
+    "revision": "5aab58c8eec0c89d4d6a",
+    "url": "assets/js/root-Icons-vue.d66cb947.js"
   },
   {
     "revision": "6ec062d6659be669d4f5",
@@ -296,7 +292,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "2193c659fb8b8aa0f58d77db93d753c4",
+    "revision": "ea3b1106ebbbcbc60bcda04968e4eab7",
     "url": "index.html"
   },
   {
