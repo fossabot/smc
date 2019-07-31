@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fb6b7cfc2a7c012527c5",
+    "revision": "8c094f5e828df2cd4161",
     "url": "assets/css/app.b1dec035.css"
   },
   {
-    "revision": "fb6b7cfc2a7c012527c5",
-    "url": "assets/js/app.43d5461b.js"
+    "revision": "8c094f5e828df2cd4161",
+    "url": "assets/js/app.68b3c313.js"
   },
   {
     "revision": "fe394e9830c4f932411c",
@@ -58,6 +58,10 @@ self.__precacheManifest = [
   {
     "revision": "fed9a26b0d5e6cd2f7d9",
     "url": "assets/js/other-EningeLow-vue.76ab4cc8.js"
+  },
+  {
+    "revision": "e6d28e43234b2a4e5460",
+    "url": "assets/js/play-Video-vue.23c265a3.js"
   },
   {
     "revision": "b32ede0da52bf4471c84",
@@ -164,12 +168,12 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_zip@2x.9b9d6379.png"
   },
   {
-    "revision": "815a2673d08221fb4968f19e59a14f2e",
-    "url": "assets/fonts/materialdesignicons-webfont.815a2673.woff2"
-  },
-  {
     "revision": "875141d94aca807fbf74f7f53fa98a26",
     "url": "assets/fonts/materialdesignicons-webfont.875141d9.woff"
+  },
+  {
+    "revision": "815a2673d08221fb4968f19e59a14f2e",
+    "url": "assets/fonts/materialdesignicons-webfont.815a2673.woff2"
   },
   {
     "revision": "666e135393ac4ac62ae551b9fb0985ae",
@@ -292,7 +296,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "8298f4feff84309377893d240d6cf4a7",
+    "revision": "4b51d795a18e065aeab0af4bb8bbd030",
     "url": "index.html"
   },
   {
