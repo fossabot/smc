@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8c094f5e828df2cd4161",
-    "url": "assets/css/app.b1dec035.css"
+    "revision": "a271c2221c75322c9fe3",
+    "url": "assets/css/app.70506611.css"
   },
   {
-    "revision": "8c094f5e828df2cd4161",
-    "url": "assets/js/app.68b3c313.js"
+    "revision": "a271c2221c75322c9fe3",
+    "url": "assets/js/app.cde36c8e.js"
   },
   {
     "revision": "fe394e9830c4f932411c",
@@ -168,12 +168,12 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_zip@2x.9b9d6379.png"
   },
   {
-    "revision": "875141d94aca807fbf74f7f53fa98a26",
-    "url": "assets/fonts/materialdesignicons-webfont.875141d9.woff"
-  },
-  {
     "revision": "815a2673d08221fb4968f19e59a14f2e",
     "url": "assets/fonts/materialdesignicons-webfont.815a2673.woff2"
+  },
+  {
+    "revision": "875141d94aca807fbf74f7f53fa98a26",
+    "url": "assets/fonts/materialdesignicons-webfont.875141d9.woff"
   },
   {
     "revision": "666e135393ac4ac62ae551b9fb0985ae",
@@ -296,7 +296,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "4b51d795a18e065aeab0af4bb8bbd030",
+    "revision": "ff7a037274a30ebf0ba79195ce18aa71",
     "url": "index.html"
   },
   {
