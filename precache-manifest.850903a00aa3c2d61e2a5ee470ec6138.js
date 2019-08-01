@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "767c2fdfffa126180fc6",
-    "url": "assets/css/app.3aa88510.css"
+    "revision": "d6286363cf1754b45b60",
+    "url": "assets/css/app.91b5968b.css"
   },
   {
-    "revision": "767c2fdfffa126180fc6",
-    "url": "assets/js/app.627517f0.js"
+    "revision": "d6286363cf1754b45b60",
+    "url": "assets/js/app.1d88043b.js"
   },
   {
     "revision": "fe394e9830c4f932411c",
     "url": "assets/js/auth-Email_Check-vue.8a905ce7.js"
   },
   {
-    "revision": "5e84fd28ce321493c2b8",
-    "url": "assets/js/auth-Login-vue.f7d28d38.js"
+    "revision": "b2c68654ef5ce9b22650",
+    "url": "assets/js/auth-Login-vue.22e17049.js"
   },
   {
-    "revision": "44c3d1c5220d2dab8c74",
-    "url": "assets/js/auth-Register-vue.34da6686.js"
+    "revision": "a15bfd3771a50bce0ead",
+    "url": "assets/js/auth-Register-vue.81811438.js"
   },
   {
     "revision": "b704e22c7d22355106cc",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "assets/js/chunk-2d22d1f5.b2243ed9.js"
   },
   {
-    "revision": "b26f7d1ec919030bd018",
-    "url": "assets/css/chunk-vendors.145691f9.css"
+    "revision": "59f8ee8ecf09aa355201",
+    "url": "assets/css/chunk-vendors.0846f13c.css"
   },
   {
-    "revision": "b26f7d1ec919030bd018",
+    "revision": "59f8ee8ecf09aa355201",
     "url": "assets/js/chunk-vendors.b66bc09f.js"
   },
   {
@@ -292,7 +292,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "32bd792865cc988cf78a008621b5e05c",
+    "revision": "a3246acad78b0006721d9846d80da0f7",
     "url": "index.html"
   },
   {
