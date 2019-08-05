@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "1a21e5163dffc86ecdd7",
-    "url": "assets/css/app.0ca92209.css"
+    "revision": "0e1e7a0996626eff8245",
+    "url": "assets/css/app.f02252aa.css"
   },
   {
-    "revision": "1a21e5163dffc86ecdd7",
-    "url": "assets/js/app.c6f44dfd.js"
+    "revision": "0e1e7a0996626eff8245",
+    "url": "assets/js/app.70a5562f.js"
   },
   {
-    "revision": "57222fc8a4f96ab831e6",
-    "url": "assets/js/auth-Email_Check-vue.6003112a.js"
+    "revision": "1f2676fb18bce99489c5",
+    "url": "assets/js/auth-Email_Check-vue.1df45b25.js"
   },
   {
-    "revision": "af8e6cd45e54e74606fb",
-    "url": "assets/js/auth-Login-vue.02e1309a.js"
+    "revision": "3fe207c3a48554dc5322",
+    "url": "assets/js/auth-Login-vue.39c7967e.js"
   },
   {
-    "revision": "1120fd38b017dcca41f2",
-    "url": "assets/js/auth-Register-vue.34f8e38a.js"
+    "revision": "d012fb4fb4fe4e981afb",
+    "url": "assets/js/auth-Register-vue.286d57b9.js"
   },
   {
-    "revision": "bd3665f22b2978c41e84",
-    "url": "assets/js/auth-oldLogin-vue.1fe208d0.js"
+    "revision": "2d13c260c3c8fd76cae7",
+    "url": "assets/js/auth-oldLogin-vue.152bf630.js"
   },
   {
-    "revision": "0b07dbe374415ddc52c2",
-    "url": "assets/js/bark-InitBark-vue.138ad5ad.js"
+    "revision": "a5b4ee44680e0e54db75",
+    "url": "assets/js/bark-InitBark-vue.5e7ceda6.js"
   },
   {
     "revision": "467bf03e8b3df40776d9",
@@ -44,32 +44,32 @@ self.__precacheManifest = [
     "url": "assets/js/chunk-vendors.49ea3184.js"
   },
   {
-    "revision": "ba559855460096089f5c",
+    "revision": "b8e5a51b0038a142f4ca",
     "url": "assets/css/other-Eninge-vue.77c9fa9b.css"
   },
   {
-    "revision": "ba559855460096089f5c",
-    "url": "assets/js/other-Eninge-vue.283b231f.js"
+    "revision": "b8e5a51b0038a142f4ca",
+    "url": "assets/js/other-Eninge-vue.cd6b0bbf.js"
   },
   {
-    "revision": "28d79ef7472a3ec4bcb0",
+    "revision": "8dc080ca2922738cd338",
     "url": "assets/css/other-EningeLow-vue.e9d03345.css"
   },
   {
-    "revision": "28d79ef7472a3ec4bcb0",
-    "url": "assets/js/other-EningeLow-vue.340f6bb7.js"
+    "revision": "8dc080ca2922738cd338",
+    "url": "assets/js/other-EningeLow-vue.f0e46495.js"
   },
   {
-    "revision": "4b2762918582d6e3dfe8",
-    "url": "assets/js/play-Video-vue.6612acb3.js"
+    "revision": "6a88894f6b927f26cca2",
+    "url": "assets/js/play-Video-vue.22775275.js"
   },
   {
-    "revision": "1c1442a17aa59c1af932",
+    "revision": "3fc5d52ae799f4b2eebf",
     "url": "assets/css/root-Dashboard-vue.04938643.css"
   },
   {
-    "revision": "1c1442a17aa59c1af932",
-    "url": "assets/js/root-Dashboard-vue.8b1f3f2b.js"
+    "revision": "3fc5d52ae799f4b2eebf",
+    "url": "assets/js/root-Dashboard-vue.305c242d.js"
   },
   {
     "revision": "32c4d16d95286653e169",
@@ -80,80 +80,76 @@ self.__precacheManifest = [
     "url": "assets/js/root-Dashboard-vue~root-TableList-vue.bcf32083.js"
   },
   {
-    "revision": "1419da4887d798b39239",
+    "revision": "eff4388b6c5a2a98a5b8",
     "url": "assets/css/root-Home-vue.57c118d0.css"
   },
   {
-    "revision": "1419da4887d798b39239",
-    "url": "assets/js/root-Home-vue.a54b5eb4.js"
+    "revision": "eff4388b6c5a2a98a5b8",
+    "url": "assets/js/root-Home-vue.2f2a7084.js"
   },
   {
-    "revision": "41950f771c5a0de28b57",
+    "revision": "87372098e076ae21956d",
     "url": "assets/css/root-Icons-vue.75a58ff6.css"
   },
   {
-    "revision": "41950f771c5a0de28b57",
-    "url": "assets/js/root-Icons-vue.2de4e4c1.js"
+    "revision": "87372098e076ae21956d",
+    "url": "assets/js/root-Icons-vue.7b8bc1e1.js"
   },
   {
-    "revision": "7f8d3e44e9b46051986d",
-    "url": "assets/js/root-Management-vue.d71ccca9.js"
+    "revision": "02f54d5925dc39b03f90",
+    "url": "assets/js/root-Management-vue.60161ccd.js"
   },
   {
-    "revision": "4df69988afd51c1a0895",
+    "revision": "63802380d298db7650bf",
     "url": "assets/css/root-Maps-vue.947ac2c8.css"
   },
   {
-    "revision": "4df69988afd51c1a0895",
-    "url": "assets/js/root-Maps-vue.22c4c891.js"
+    "revision": "63802380d298db7650bf",
+    "url": "assets/js/root-Maps-vue.24ada836.js"
   },
   {
-    "revision": "5268c431a5f98d2d874b",
+    "revision": "9706c77bd12bfe654b1d",
     "url": "assets/css/root-Notifications-vue.57c118d0.css"
   },
   {
-    "revision": "5268c431a5f98d2d874b",
-    "url": "assets/js/root-Notifications-vue.277c3fd5.js"
+    "revision": "9706c77bd12bfe654b1d",
+    "url": "assets/js/root-Notifications-vue.d6dc36dd.js"
   },
   {
-    "revision": "33c24b91eec330ecaa3d",
-    "url": "assets/js/root-SearchResults-vue.14c76e34.js"
+    "revision": "0d0e70b82db907e2e95c",
+    "url": "assets/js/root-SearchResults-vue.3bd728be.js"
   },
   {
-    "revision": "df8c164e67642e33e3b8",
-    "url": "assets/js/root-TableList-vue.fc26061c.js"
+    "revision": "2f87886c832ca3211e21",
+    "url": "assets/js/root-TableList-vue.65393157.js"
   },
   {
-    "revision": "c295a91ddc574a538eed",
+    "revision": "06176cb2f62c7da711e9",
     "url": "assets/css/root-Typography-vue.577a9db4.css"
   },
   {
-    "revision": "c295a91ddc574a538eed",
-    "url": "assets/js/root-Typography-vue.bebec940.js"
+    "revision": "06176cb2f62c7da711e9",
+    "url": "assets/js/root-Typography-vue.5036e0b3.js"
   },
   {
-    "revision": "33232c928e0ccc0597e5",
-    "url": "assets/js/root-Upgrade-vue.e0c1c4d5.js"
+    "revision": "c4d42f92411800705427",
+    "url": "assets/js/root-Upgrade-vue.b95002cf.js"
   },
   {
-    "revision": "3d75632c62545c466e64",
+    "revision": "6a7926cd4ed567951716",
     "url": "assets/css/root-UploadPage-vue.4d12946f.css"
   },
   {
-    "revision": "3d75632c62545c466e64",
-    "url": "assets/js/root-UploadPage-vue.e8a49b10.js"
+    "revision": "6a7926cd4ed567951716",
+    "url": "assets/js/root-UploadPage-vue.13f77076.js"
   },
   {
-    "revision": "b5cebb1f58b6f0f6d269",
+    "revision": "4f51757c2ffdb919166c",
     "url": "assets/css/root-UserProfile-vue.cfb5e27f.css"
   },
   {
-    "revision": "b5cebb1f58b6f0f6d269",
-    "url": "assets/js/root-UserProfile-vue.8a95d3cd.js"
-  },
-  {
-    "revision": "0d5edfab02046bbcb5344e21d803f953",
-    "url": "assets/img/auth.0d5edfab.jpg"
+    "revision": "4f51757c2ffdb919166c",
+    "url": "assets/js/root-UserProfile-vue.3abe6881.js"
   },
   {
     "revision": "4cfc05a524cb8e091a47fbbb8430554f",
@@ -166,6 +162,10 @@ self.__precacheManifest = [
   {
     "revision": "f4ec7a2aa8809c6becb9bc449c06192f",
     "url": "assets/img/file_cover_bg_ps@2x.f4ec7a2a.png"
+  },
+  {
+    "revision": "0d5edfab02046bbcb5344e21d803f953",
+    "url": "assets/img/auth.0d5edfab.jpg"
   },
   {
     "revision": "9b9d6379a3a6092e2e2864d770441f5c",
@@ -300,7 +300,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "691aa33d1dfb67a936580f7a0b40f933",
+    "revision": "df733de2024709a4ee1ce275ea1c9f86",
     "url": "index.html"
   },
   {
