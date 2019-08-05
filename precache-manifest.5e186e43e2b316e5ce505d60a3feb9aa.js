@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9e170fdce16123c25da8",
+    "revision": "1b027ec31b665530b86f",
     "url": "assets/css/app.f02252aa.css"
   },
   {
-    "revision": "9e170fdce16123c25da8",
-    "url": "assets/js/app.a65f029d.js"
+    "revision": "1b027ec31b665530b86f",
+    "url": "assets/js/app.b38f2b10.js"
   },
   {
     "revision": "09f751c7125e79b641e9",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "assets/js/chunk-2d22d1f5.d32fe1b1.js"
   },
   {
-    "revision": "541aedcb2084f6ff6689",
+    "revision": "cd80a34f0be653b3c2c5",
     "url": "assets/css/chunk-vendors.21aea090.css"
   },
   {
-    "revision": "541aedcb2084f6ff6689",
-    "url": "assets/js/chunk-vendors.68225b88.js"
+    "revision": "cd80a34f0be653b3c2c5",
+    "url": "assets/js/chunk-vendors.c37ccef7.js"
   },
   {
     "revision": "6395322375dc3bac161b",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "assets/js/root-Dashboard-vue~root-TableList-vue.bcf32083.js"
   },
   {
-    "revision": "932d77b01ad7650aabbf",
+    "revision": "17a21ab7e57e18cf6255",
     "url": "assets/css/root-Home-vue.57c118d0.css"
   },
   {
-    "revision": "932d77b01ad7650aabbf",
-    "url": "assets/js/root-Home-vue.2f851f19.js"
+    "revision": "17a21ab7e57e18cf6255",
+    "url": "assets/js/root-Home-vue.d739a21a.js"
   },
   {
     "revision": "bbd9a95faff86a245180",
@@ -300,7 +300,7 @@ self.__precacheManifest = [
     "url": "assets/img/file_cover_bg_pdf@2x.f15bd8ba.png"
   },
   {
-    "revision": "3de606cf20b9afdef2233253d7985382",
+    "revision": "6753e760719931a4872ea02414710af1",
     "url": "index.html"
   },
   {
